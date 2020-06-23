@@ -1,0 +1,16 @@
+[
+    {
+      "title": "uraXa",
+      "slug": "project-1",
+      "url": "https://uraxa-netllfy-app.netlify.app/",
+      "image": "./images/uraxa.jpg",
+      "description": "#HackForBetterDays 2020 hackthon with HERE Technologies. It allows users to explore, follow places and share  stories."
+    },
+    {
+      "title": "Falsh-Zoo",
+      "slug": "project-2",
+      "url": "https://beasuf.github.io/flash_zoo_client/",
+      "image": "./images/flash_zoo.jpg",
+      "description": "kkkk"
+    }
+  ]
