@@ -1,6 +1,6 @@
 # Portfolio 
 
-Gatsby, Strapi Headless CMS, Node.js, React, React Icons (<https://react-icons.github.io/react-icons/>)
+Gatsby, GraphQL, React, Node.js, Strapi Headless CMS, React Icons (<https://react-icons.github.io/react-icons/>)
 
 
 ## 💫 Deploy
